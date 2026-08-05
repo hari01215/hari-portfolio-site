@@ -108,5 +108,5 @@ Smart India Hackathon project for intelligent public transportation planning and
 ---
 
 # protfolio
-phenomenal-marzipan-613002.netlify.app
+https://hari-portfolio-site.netlify.app/
 
