@@ -1,36 +1,112 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👋 Hi, I'm Harikrishnan A
 
-## Getting Started
+### 🚀 AI Developer | Flutter Developer | Full Stack Developer | UI/UX Designer
 
-First, run the development server:
+<img align="right" width="350" src="YOUR_PROFILE_IMAGE_URL"/>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I'm a passionate developer focused on building modern, intelligent, and user-centric applications. I enjoy transforming innovative ideas into real-world digital products using AI, Flutter, React, Firebase, Python, and modern web technologies.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I love creating premium UI/UX experiences, scalable applications, and impactful solutions that solve real-world problems.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 About Me
 
-## Learn More
+- 🎓 Electronics & Communication Engineering Student
+- 💙 Passionate Flutter Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🌍 Full Stack Web Developer
+- 🎨 UI/UX Designer
+- 📱 Mobile App Developer
+- 🔥 Always learning new technologies
+- 💡 Love solving real-world problems through technology
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# 🛠 Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Languages
 
-## Deploy on Vercel
+C • Java • Python • JavaScript • TypeScript • Dart
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Frontend
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Flutter • React • Next.js • HTML • CSS • Tailwind CSS
+
+### Backend
+
+Node.js • Express.js • Firebase
+
+### Database
+
+Firebase Firestore • MongoDB • MySQL
+
+### Tools
+
+Git • GitHub • VS Code • Android Studio • Figma
+
+### AI
+
+Machine Learning • OpenAI • Gemini • Prompt Engineering
+
+---
+
+# 🚀 Featured Projects
+
+## 🌱 Krishi Sakhi
+AI-powered smart farming application helping farmers with crop management, weather updates, and AI-based recommendations.
+
+---
+
+## 🚗 Smart EV Assistant
+An intelligent EV charging and battery monitoring platform built using Flutter and IoT.
+
+---
+
+## 🌍 TerraShield
+AI + GIS disaster management platform for wildfire prediction, emergency alerts, and real-time mapping.
+
+---
+
+## 🚆 AI Train Planner
+Smart India Hackathon project for intelligent public transportation planning and optimization.
+
+---
+
+# 📊 GitHub Stats
+
+- 🚀 Projects
+- ⭐ Open Source Contributions
+- 📱 Flutter Applications
+- 🌐 Full Stack Projects
+- 🤖 AI Solutions
+
+---
+
+# 🎯 Currently Learning
+
+- Artificial Intelligence
+- Advanced Flutter
+- Next.js
+- Cloud Computing
+- System Design
+- Three.js
+- React Three Fiber
+
+---
+
+# 🌐 Connect With Me
+
+💼 Portfolio : https://yourportfolio.com
+
+💻 GitHub : https://github.com/yourusername
+
+💼 LinkedIn : https://linkedin.com/in/yourusername
+
+📧 Email : your@email.com
+
+---
+
+# protfolio
+phenomenal-marzipan-613002.netlify.app
+
